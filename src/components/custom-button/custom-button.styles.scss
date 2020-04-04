@@ -38,7 +38,7 @@
     border: 1px solid black;
   }
 
-  &:hover {
+  &.inverted:hover {
     background-color: black;
     color: white;
     border: none;
